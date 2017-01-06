@@ -1,0 +1,1 @@
+把SpotFi分成了csi smoothing、calculate eigenvectors、calculate MUSIC spectrum、find peaks、clustering、tof sanitizing、calculate likelihoods几部分,方便调试
